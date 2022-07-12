@@ -2,6 +2,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "normalize.css": "^8.0.1",
+    "pug-cli2": "^1.0.0-alpha6.1",
     "sass": "^1.53.0",
     "swiper": "^8.2.6"
   }
